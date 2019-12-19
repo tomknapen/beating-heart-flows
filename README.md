@@ -3,4 +3,4 @@ beating-heart
 
 ### About
 
-This repo contains my flows for node-red.
+Backup of the node-red flows for beating heart.
