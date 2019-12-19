@@ -2,7 +2,10 @@
     "name": "beating-heart",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-cast": "0.2.12",
+        "node-red-dashboard": "2.19.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
