@@ -4,7 +4,9 @@
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-cast": "0.2.12",
-        "node-red-dashboard": "2.19.2"
+        "node-red-dashboard": "2.19.2",
+        "node-red-contrib-telegrambot-home": "0.5.2",
+        "node-red-contrib-time-range-switch": "0.6.3"
     },
     "node-red": {
         "settings": {
